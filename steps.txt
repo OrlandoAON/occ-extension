@@ -1,0 +1,7 @@
+npm init - start a new project
+
+npm install express passport-facebook passport --save
+
+npm run start; run task in package.json/scripts
+
+ npm install nodemon -g // hot deploy;
